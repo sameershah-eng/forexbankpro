@@ -1,0 +1,6 @@
+{
+  "name": "Forex Bank Pro - Quantum AI Trading & PAMM Accounts",
+  "description": "High-performance algorithmic forex trading, PAMM managed accounts, automated EAs, and institutional-grade fund security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
